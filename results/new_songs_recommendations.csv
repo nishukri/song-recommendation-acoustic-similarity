@@ -1,0 +1,76 @@
+Star,New song,Actual genre,Rank,Recommended song,Recommended genre,Similarity
+1,01-37473-jazzcomputer.org-Terrace of Clouds.mp3,jazz,1,reggae.00074.wav,reggae,0.532
+1,01-37473-jazzcomputer.org-Terrace of Clouds.mp3,jazz,2,hiphop.00057.wav,hiphop,0.52
+1,01-37473-jazzcomputer.org-Terrace of Clouds.mp3,jazz,3,reggae.00073.wav,reggae,0.504
+1,01-37473-jazzcomputer.org-Terrace of Clouds.mp3,jazz,4,hiphop.00056.wav,hiphop,0.458
+1,01-37473-jazzcomputer.org-Terrace of Clouds.mp3,jazz,5,country.00007.wav,country,0.457
+2,02-37474-jazzcomputer.org-Seven Bells.mp3,jazz,1,pop.00053.wav,pop,0.65
+2,02-37474-jazzcomputer.org-Seven Bells.mp3,jazz,2,hiphop.00044.wav,hiphop,0.64
+2,02-37474-jazzcomputer.org-Seven Bells.mp3,jazz,3,reggae.00083.wav,reggae,0.632
+2,02-37474-jazzcomputer.org-Seven Bells.mp3,jazz,4,pop.00064.wav,pop,0.628
+2,02-37474-jazzcomputer.org-Seven Bells.mp3,jazz,5,pop.00007.wav,pop,0.619
+3,03-37475-jazzcomputer.org-No Joe.mp3,jazz,1,pop.00062.wav,pop,0.521
+3,03-37475-jazzcomputer.org-No Joe.mp3,jazz,2,pop.00001.wav,pop,0.489
+3,03-37475-jazzcomputer.org-No Joe.mp3,jazz,3,pop.00000.wav,pop,0.436
+3,03-37475-jazzcomputer.org-No Joe.mp3,jazz,4,classical.00054.wav,classical,0.434
+3,03-37475-jazzcomputer.org-No Joe.mp3,jazz,5,reggae.00087.wav,reggae,0.432
+4,04-37476-jazzcomputer.org-Oceaniques.mp3,jazz,1,classical.00015.wav,classical,0.667
+4,04-37476-jazzcomputer.org-Oceaniques.mp3,jazz,2,jazz.00005.wav,jazz,0.642
+4,04-37476-jazzcomputer.org-Oceaniques.mp3,jazz,3,classical.00012.wav,classical,0.639
+4,04-37476-jazzcomputer.org-Oceaniques.mp3,jazz,4,pop.00062.wav,pop,0.616
+4,04-37476-jazzcomputer.org-Oceaniques.mp3,jazz,5,jazz.00007.wav,jazz,0.597
+5,05-37477-jazzcomputer.org-Timetrack.mp3,jazz,1,disco.00043.wav,disco,0.574
+5,05-37477-jazzcomputer.org-Timetrack.mp3,jazz,2,reggae.00053.wav,reggae,0.548
+5,05-37477-jazzcomputer.org-Timetrack.mp3,jazz,3,hiphop.00009.wav,hiphop,0.515
+5,05-37477-jazzcomputer.org-Timetrack.mp3,jazz,4,reggae.00055.wav,reggae,0.507
+5,05-37477-jazzcomputer.org-Timetrack.mp3,jazz,5,hiphop.00043.wav,hiphop,0.501
+6,01-888180-Metal Detector-Vengeance Demon.mp3,metal,1,jazz.00056.wav,jazz,0.728
+6,01-888180-Metal Detector-Vengeance Demon.mp3,metal,2,country.00004.wav,country,0.69
+6,01-888180-Metal Detector-Vengeance Demon.mp3,metal,3,disco.00014.wav,disco,0.652
+6,01-888180-Metal Detector-Vengeance Demon.mp3,metal,4,country.00001.wav,country,0.647
+6,01-888180-Metal Detector-Vengeance Demon.mp3,metal,5,rock.00053.wav,rock,0.638
+7,02-888181-Metal Detector-Soul Of The Scorpion.mp3,metal,1,rock.00039.wav,rock,0.774
+7,02-888181-Metal Detector-Soul Of The Scorpion.mp3,metal,2,hiphop.00030.wav,hiphop,0.744
+7,02-888181-Metal Detector-Soul Of The Scorpion.mp3,metal,3,rock.00029.wav,rock,0.718
+7,02-888181-Metal Detector-Soul Of The Scorpion.mp3,metal,4,rock.00036.wav,rock,0.673
+7,02-888181-Metal Detector-Soul Of The Scorpion.mp3,metal,5,rock.00053.wav,rock,0.671
+8,03-888182-Metal Detector-Heavy From The Sky.mp3,metal,1,jazz.00056.wav,jazz,0.71
+8,03-888182-Metal Detector-Heavy From The Sky.mp3,metal,2,rock.00057.wav,rock,0.653
+8,03-888182-Metal Detector-Heavy From The Sky.mp3,metal,3,country.00004.wav,country,0.646
+8,03-888182-Metal Detector-Heavy From The Sky.mp3,metal,4,disco.00002.wav,disco,0.632
+8,03-888182-Metal Detector-Heavy From The Sky.mp3,metal,5,disco.00036.wav,disco,0.625
+9,04-888183-Metal Detector-Steel Blood.mp3,metal,1,disco.00013.wav,disco,0.65
+9,04-888183-Metal Detector-Steel Blood.mp3,metal,2,disco.00035.wav,disco,0.604
+9,04-888183-Metal Detector-Steel Blood.mp3,metal,3,disco.00022.wav,disco,0.603
+9,04-888183-Metal Detector-Steel Blood.mp3,metal,4,disco.00014.wav,disco,0.596
+9,04-888183-Metal Detector-Steel Blood.mp3,metal,5,rock.00029.wav,rock,0.59
+10,05-888184-Metal Detector-Metal Detector.mp3,metal,1,jazz.00056.wav,jazz,0.71
+10,05-888184-Metal Detector-Metal Detector.mp3,metal,2,rock.00057.wav,rock,0.628
+10,05-888184-Metal Detector-Metal Detector.mp3,metal,3,country.00001.wav,country,0.609
+10,05-888184-Metal Detector-Metal Detector.mp3,metal,4,country.00004.wav,country,0.602
+10,05-888184-Metal Detector-Metal Detector.mp3,metal,5,jazz.00061.wav,jazz,0.597
+11,01-1119654-Robert Avellanet-Love is a Journey.mp3,pop,1,pop.00082.wav,pop,0.587
+11,01-1119654-Robert Avellanet-Love is a Journey.mp3,pop,2,pop.00043.wav,pop,0.496
+11,01-1119654-Robert Avellanet-Love is a Journey.mp3,pop,3,country.00001.wav,country,0.487
+11,01-1119654-Robert Avellanet-Love is a Journey.mp3,pop,4,rock.00050.wav,rock,0.482
+11,01-1119654-Robert Avellanet-Love is a Journey.mp3,pop,5,rock.00053.wav,rock,0.461
+12,02-1119655-Robert Avellanet-The Limit.mp3,pop,1,country.00042.wav,country,0.612
+12,02-1119655-Robert Avellanet-The Limit.mp3,pop,2,disco.00030.wav,disco,0.602
+12,02-1119655-Robert Avellanet-The Limit.mp3,pop,3,rock.00057.wav,rock,0.555
+12,02-1119655-Robert Avellanet-The Limit.mp3,pop,4,jazz.00056.wav,jazz,0.548
+12,02-1119655-Robert Avellanet-The Limit.mp3,pop,5,country.00002.wav,country,0.547
+13,03-1119656-Robert Avellanet-Love Will Break the Walls.mp3,pop,1,pop.00025.wav,pop,0.607
+13,03-1119656-Robert Avellanet-Love Will Break the Walls.mp3,pop,2,jazz.00049.wav,jazz,0.547
+13,03-1119656-Robert Avellanet-Love Will Break the Walls.mp3,pop,3,pop.00083.wav,pop,0.539
+13,03-1119656-Robert Avellanet-Love Will Break the Walls.mp3,pop,4,reggae.00087.wav,reggae,0.53
+13,03-1119656-Robert Avellanet-Love Will Break the Walls.mp3,pop,5,hiphop.00045.wav,hiphop,0.518
+14,04-1119657-Robert Avellanet-When I Have You.mp3,pop,1,disco.00014.wav,disco,0.683
+14,04-1119657-Robert Avellanet-When I Have You.mp3,pop,2,country.00007.wav,country,0.662
+14,04-1119657-Robert Avellanet-When I Have You.mp3,pop,3,rock.00036.wav,rock,0.656
+14,04-1119657-Robert Avellanet-When I Have You.mp3,pop,4,hiphop.00030.wav,hiphop,0.648
+14,04-1119657-Robert Avellanet-When I Have You.mp3,pop,5,country.00006.wav,country,0.644
+15,05-1119658-Robert Avellanet-I_m So Glad.mp3,pop,1,country.00002.wav,country,0.612
+15,05-1119658-Robert Avellanet-I_m So Glad.mp3,pop,2,disco.00041.wav,disco,0.525
+15,05-1119658-Robert Avellanet-I_m So Glad.mp3,pop,3,country.00042.wav,country,0.518
+15,05-1119658-Robert Avellanet-I_m So Glad.mp3,pop,4,country.00014.wav,country,0.494
+15,05-1119658-Robert Avellanet-I_m So Glad.mp3,pop,5,reggae.00046.wav,reggae,0.455

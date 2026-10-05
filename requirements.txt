@@ -1,0 +1,7 @@
+   librosa
+   scikit-learn
+   pandas
+   numpy
+   matplotlib
+   joblib
+   soundfile

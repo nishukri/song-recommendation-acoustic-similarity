@@ -1,0 +1,4 @@
+Variance kept,Components,Best k,Silhouette,Precision@5
+80%,14,3,0.233,0.559
+95%,38,3,0.19,0.603
+99%,56,3,0.181,0.612
